@@ -1,0 +1,21 @@
+/* .body{
+    display: grid;
+    grid-template-columns: repeat(2fr,2fr);
+} */
+
+
+.image-1{
+    width: 50px;
+    height: 380px;
+}
+
+.btn-regular{
+    background-color: seagreen;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    width: 80px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
